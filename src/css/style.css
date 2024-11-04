@@ -575,8 +575,10 @@ video {
 }
 
 .bg-blue-100 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(219 234 254 / var(--tw-bg-opacity));
+  background-image: url('../img/1580.jpg'); /* Ganti dengan path gambar Anda */
+  background-size: cover; /* Agar gambar memenuhi area */
+  background-position: center; /* Memusatkan gambar */
+  background-repeat: no-repeat;
 }
 
 .bg-white {
