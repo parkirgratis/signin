@@ -59,6 +59,7 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
+  font-family: 'Figtree', serif;
 }
 
 /*
@@ -644,4 +645,8 @@ video {
 .hover\:text-white:hover {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.main-font {
+  font-family: 'Figtree', serif;
 }
