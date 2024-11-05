@@ -23,7 +23,7 @@ document.getElementById("examplePopup").addEventListener("click", () => {
         showCloseButton: true,
         showConfirmButton: false,
         customClass: {
-            popup: 'rounded-md',
+            popup: 'rounded-md'
         }
     });
 });

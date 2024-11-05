@@ -576,7 +576,7 @@ video {
 }
 
 .bg-blue-100 {
-  background-image: url('../../assets/img/land_bg.jpg'); /* Ganti dengan path gambar Anda */
+  background-image: url('../../assets/img/loginbg.jpg'); /* Ganti dengan path gambar Anda */
   background-size: cover; /* Agar gambar memenuhi area */
   background-position: center; /* Memusatkan gambar */
   background-repeat: no-repeat;
